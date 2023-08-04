@@ -1,0 +1,2 @@
+Wordlists included with this program are from node-dirbuster
+https://github.com/daviddias/node-dirbuster/tree/master

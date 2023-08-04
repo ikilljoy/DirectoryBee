@@ -1,0 +1,22 @@
+Directory Bee - Terms of Use
+By using the Directory Bee tool ("the tool"), you agree to comply with the following terms and conditions. If you do not agree with these terms, you should not use the tool.
+
+Use of the Tool
+The Directory Bee tool is intended to be used for legitimate and ethical purposes, such as testing and securing your own websites or websites for which you have explicit permission to scan.
+
+You shall not use the tool to scan websites or web applications without proper authorization. Unauthorized scanning of websites, networks, or servers is illegal and unethical.
+
+You shall use the tool responsibly and in accordance with all applicable laws and regulations. You are solely responsible for ensuring your compliance with relevant legal and ethical standards.
+
+Disclaimer
+The Directory Bee tool is provided "as is" and without any warranty. The tool's authors and contributors do not guarantee the accuracy, reliability, or fitness for a particular purpose of the tool.
+
+The tool's authors and contributors shall not be held liable for any damages, losses, or legal consequences resulting from the use of the tool, including but not limited to unauthorized scanning of websites.
+
+Legal Compliance
+You shall ensure that your use of the tool complies with all applicable laws, including data protection, privacy, and intellectual property laws.
+
+You shall obtain proper authorization before scanning any website, network, or server, and shall respect the terms of use and policies of the target websites.
+
+Acceptance of Terms
+By using the Directory Bee tool, you acknowledge that you have read, understood, and agreed to these terms of use. If you do not agree with these terms, you should not use the tool.
